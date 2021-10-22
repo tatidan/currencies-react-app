@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),r=t.n(c),i=t(3),s=t.n(i),p=(t(8),t(0)),o=function(){return Object(p.jsx)("div",{children:Object(p.jsx)("h1",{children:"Currencies app here"})})};s.a.render(Object(p.jsx)(r.a.StrictMode,{children:Object(p.jsx)(o,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.27ed626a.chunk.js.map
